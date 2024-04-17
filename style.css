@@ -9,13 +9,19 @@ ol{
     font-weight: bold;
 }
 h1{
-    margin: 8px;
+    margin: 20px;
     text-align: center;
+    color: darkgoldenrod;
+    font-size: 50px;
+    
 
 }
 h2{
-    text-align: center;
+    
     margin-top: 80px;
+    padding: 8px;
+    text-align: left;
+
 }
 footer{
     text-align: center;
@@ -24,3 +30,49 @@ footer{
     margin-top: 80px;
     font-family: 'Times New Roman', Times, serif;
 }
+body {
+    background-image: url('https://img.freepik.com/vetores-premium/homem-barbudo-com-um-copo-de-distintivo-de-vetor-de-cerveja-raiz_66757-323.jpg');
+    background-size: 650px;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+    color:#333
+}
+a{
+    color: #c90c0c;
+    text-decoration: none;
+}
+aside{
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    margin-top: 80px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.button{
+    display: inline-block;
+    background-color: transparent;
+    color: darkgoldenrod;
+    font-weight: bolder;
+    font-style: italic;
+    font-size: 28px;
+    border: none;
+    border-radius: 8px;
+
+}
+.opcoes-long-neck {
+    text-align: right;
+    margin-right: 20px;
+    background-color: transparent;
+    color: darkgoldenrod;
+    font-weight: bolder;
+    font-style: italic;
+    font-size: 28px;
+    border: none;
+    border-radius: 8px;
+ }
+ .long-neck {
+    text-align: right;
+    
+
+ }
